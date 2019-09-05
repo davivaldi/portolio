@@ -1,0 +1,14 @@
+C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\bin\Debug\netcoreapp2.2\portfolio.deps.json
+C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\bin\Debug\netcoreapp2.2\portfolio.runtimeconfig.json
+C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\bin\Debug\netcoreapp2.2\portfolio.runtimeconfig.dev.json
+C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\bin\Debug\netcoreapp2.2\portfolio.dll
+C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\bin\Debug\netcoreapp2.2\portfolio.pdb
+C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.csprojAssemblyReference.cache
+C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.csproj.CoreCompileInputs.cache
+C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.RazorAssemblyInfo.cache
+C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.RazorAssemblyInfo.cs
+C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.AssemblyInfoInputs.cache
+C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.AssemblyInfo.cs
+C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.RazorTargetAssemblyInfo.cache
+C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.dll
+C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.pdb
