@@ -23,3 +23,5 @@ C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\obj\Debug\net
 C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.csproj.CopyComplete
 C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
 C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\obj\Debug\netcoreapp2.2\Razor\Views\Home\Projects.g.cshtml.cs
+C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\obj\Debug\netcoreapp2.2\Razor\Views\Home\RazorFun.g.cshtml.cs
+C:\Users\dropi_000\Desktop\dotNetStack\ASP.Net\Portfolio\portfolio\obj\Debug\netcoreapp2.2\Razor\Views\Home\TimeDisplay.g.cshtml.cs

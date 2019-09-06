@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Portfolio</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+        <link rel="stylesheet" href="~/css/stylel.css"/>
+    </head>
+
+    <body>
+        <h2> Here are some delicious Foods</h2>
+        @{
+            var Foodlist = new List<string>
+                {
+                    "Apple Pie",
+                    "Hot wings",
+                    "Oranges",
+                    "Tacos",
+                    "My Wifes Lasagna"
+                };
+                foreach(var food in Foodlist){
+                    <p>@food</p>
+
+                }
+        }
+    </body>
+</html>

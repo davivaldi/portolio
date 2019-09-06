@@ -2974,6 +2974,16 @@
       "FilePath": "Views\\Home\\Contact.cshtml",
       "TargetPath": "Views\\Home\\Contact.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Home\\TimeDate.cshtml",
+      "TargetPath": "Views\\Home\\TimeDate.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Home\\RazorFun.cshtml",
+      "TargetPath": "Views\\Home\\RazorFun.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
