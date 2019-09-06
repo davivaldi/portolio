@@ -1,3 +1,4 @@
+using System;
 using Microsoft.AspNetCore.Mvc;
 namespace portfolio
 {
@@ -6,21 +7,52 @@ public class HomeController : Controller
 {
     [HttpGet("")]
 
-    public string Index()
+    public IActionResult Index()
     {
-        return "This is my index!";
+        // Views/Home/Index.cshtml
+        // Views/Shared/if not in  home it will look for it in the shared folder
+        return View();
     }
 
-    [HttpGet("/projects")]
-    public string Projets()
+    [HttpGet("ind")]
+    public RedirectToActionResult Ind()
     {
-        return "These are my projects";
+        Console.WriteLine("redirectiong Home");
+        // adding parameters to a redirct*************************************************
+        // var param = New(username="david", location="Seattle");
+        // return RedirectToAction("Projects",param);
+        return RedirectToAction("Index");
+    }
+    [HttpGet("pro")]
+    public RedirectToActionResult Pro()
+    {
+        Console.WriteLine("redirectiong to projects");
+        // adding parameters to a redirct*************************************************
+        // var param = New(username="david", location="Seattle");
+        // return RedirectToAction("Projects",param);
+        return RedirectToAction("Projects");
     }
 
-    [HttpGet("/Contact")]
-    public string Contact()
+    [HttpGet("projects")]
+    public IActionResult Projects()
     {
-        return "This is my Contact info";
+        return View();
+    }
+
+    [HttpGet("Contact")]
+    public IActionResult Contact()
+    {
+        return View();
+    }
+
+    [HttpGet("con")]
+    public RedirectToActionResult Con()
+    {
+        Console.WriteLine("redirectiong to contact");
+        // adding parameters to a redirct*************************************************
+        // var param = New(username="david", location="Seattle");
+        // return RedirectToAction("Projects",param);
+        return RedirectToAction("Contact");
     }
 }
 
